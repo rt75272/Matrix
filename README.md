@@ -14,3 +14,6 @@ _Windows:_
 ```console
 $ start matrix.bat
 ```
+*matrix.bat output*
+&nbsp;  
+![matrix.bat output](windows_matrix.gif)
